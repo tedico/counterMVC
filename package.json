@@ -1,0 +1,18 @@
+{
+  "name": "counterParcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "Ted Sandico <tedsandico@tedsandico.com> (www.tedsandico.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "hyperscript": "^2.0.2",
+    "hyperscript-helpers": "^3.0.3",
+    "parcel-bundler": "^1.12.4"
+  }
+}

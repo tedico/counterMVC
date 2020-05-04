@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  align-items: center;
+  background-color: #2d3436;
+  color:#2d3436;
+  display: flex;
+  font-family: 'IBM Plex Sans', sans-serif;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.container {
+  align-items: center;
+  background-color: white;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  min-height: 500px;
+  min-width: 500px;
+}
+
+.counter {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 0 auto;
+  text-align: center;
+}
+
+button {
+  display: inline-block;
+  border: none;
+  border-radius: 3px;
+  font-size: 1rem;
+  margin-right: 5px;
+  outline: none;
+  padding: 10px 25px;
+}
+
+.button-set {
+  border-top: 2px solid #2d3436;
+  padding: 20px;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
